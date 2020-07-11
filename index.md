@@ -44,6 +44,22 @@ page_sections:
   media:
     image: "/uploads/2020/07/11/personal-training.png"
     alt_text: Personal Training
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Group Training
+  media:
+    image: "/uploads/2020/07/11/group-training.png"
+    alt_text: Group Training
+  content: TODO
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Lifestyle Coaching
+  content: TODO
+  media:
+    image: "/uploads/2020/07/11/lifestyle-coaching.png"
+    alt_text: Lifestyle Coaching
 - template: signup-bar
   block: cta-bar
   content: ''
