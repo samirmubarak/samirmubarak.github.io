@@ -47,6 +47,18 @@ page_sections:
   col_3:
     headline: Lifestyle Coaching
     content: TODO
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2020/07/11/logo.png"
