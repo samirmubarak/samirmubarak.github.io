@@ -66,7 +66,7 @@ page_sections:
   email_recipient: ''
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2020/07/11/logo.png"
+  image: ''
   col_2: 'Tel: TODO'
   col_3: 'Email: TODO'
   col_4: <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/"
