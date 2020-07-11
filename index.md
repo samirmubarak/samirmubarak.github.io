@@ -27,7 +27,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
+  headline: About Me
   content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
     tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
     the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
@@ -35,18 +35,18 @@ page_sections:
     magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+    article</a> and create your own Blocks.</p></li></ol><p>(TODO)</p>
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: 1:1 Training
+    content: TODO
   col_2:
-    headline: ''
-    content: ''
+    headline: Group Training
+    content: TODO
   col_3:
-    headline: ''
-    content: ''
+    headline: Lifestyle Coaching
+    content: TODO
 - template: 4-column-footer
   block: footer-2
   image: ''
