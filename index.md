@@ -58,7 +58,7 @@ page_sections:
   headline: Lifestyle Coaching
   content: TODO
   media:
-    image: "/uploads/2020/07/11/lifestyle-coaching-1.png"
+    image: "/uploads/2020/07/11/lifestyle-coaching.png"
     alt_text: Lifestyle Coaching
 - template: signup-bar
   block: cta-bar
