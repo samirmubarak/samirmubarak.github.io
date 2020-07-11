@@ -42,7 +42,7 @@ page_sections:
   headline: Personal Training
   content: TODO
   media:
-    image: "/uploads/2020/07/11/personal-training-1.png"
+    image: "/uploads/2020/07/11/personal-training.png"
     alt_text: Personal Training
 - template: content-feature
   block: feature-1
