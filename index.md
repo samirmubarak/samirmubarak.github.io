@@ -67,9 +67,10 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2020/07/11/logo.png"
-  col_2: Test 1
-  col_3: Test 2
-  col_4: Test 3
+  col_2: 'Tel: TODO'
+  col_3: 'Email: TODO'
+  col_4: <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/"
+    title="">Privacy Policy</a>
 
 ---
 foo bar
