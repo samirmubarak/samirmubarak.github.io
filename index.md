@@ -36,25 +36,14 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol><p>(TODO)</p>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 1:1 Training
-    content: TODO
-  col_2:
-    headline: Group Training
-    content: TODO
-  col_3:
-    headline: Lifestyle Coaching
-    content: TODO
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  content: ''
+  headline: Personal Training
+  content: TODO
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2020/07/11/personal-training.png"
+    alt_text: Personal Training
 - template: signup-bar
   block: cta-bar
   content: ''
